@@ -2,4 +2,4 @@
 Console.WriteLine("привет как дела");
 Console.WriteLine("привет как дела");
 Console.WriteLine("привет как дела");
-Console.WriteLine("дела");
+Console.WriteLine("дела отлично");
