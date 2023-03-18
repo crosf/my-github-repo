@@ -1,0 +1,15 @@
+C:\VSC\my-github-repo\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.AssemblyReference.cache
+C:\VSC\my-github-repo\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\my-github-repo\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfoInputs.cache
+C:\VSC\my-github-repo\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfo.cs
+C:\VSC\my-github-repo\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\VSC\my-github-repo\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.exe
+C:\VSC\my-github-repo\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.deps.json
+C:\VSC\my-github-repo\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.runtimeconfig.json
+C:\VSC\my-github-repo\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.dll
+C:\VSC\my-github-repo\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.pdb
+C:\VSC\my-github-repo\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.dll
+C:\VSC\my-github-repo\Example011_ArrayLibrary\obj\Debug\net6.0\refint\Example011_ArrayLibrary.dll
+C:\VSC\my-github-repo\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.pdb
+C:\VSC\my-github-repo\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.genruntimeconfig.cache
+C:\VSC\my-github-repo\Example011_ArrayLibrary\obj\Debug\net6.0\ref\Example011_ArrayLibrary.dll
