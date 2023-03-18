@@ -1,0 +1,15 @@
+C:\VSC\my-github-repo\Examples008_introArray\bin\Debug\net6.0\Examples008_introArray.exe
+C:\VSC\my-github-repo\Examples008_introArray\bin\Debug\net6.0\Examples008_introArray.deps.json
+C:\VSC\my-github-repo\Examples008_introArray\bin\Debug\net6.0\Examples008_introArray.runtimeconfig.json
+C:\VSC\my-github-repo\Examples008_introArray\bin\Debug\net6.0\Examples008_introArray.dll
+C:\VSC\my-github-repo\Examples008_introArray\bin\Debug\net6.0\Examples008_introArray.pdb
+C:\VSC\my-github-repo\Examples008_introArray\obj\Debug\net6.0\Examples008_introArray.csproj.AssemblyReference.cache
+C:\VSC\my-github-repo\Examples008_introArray\obj\Debug\net6.0\Examples008_introArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\my-github-repo\Examples008_introArray\obj\Debug\net6.0\Examples008_introArray.AssemblyInfoInputs.cache
+C:\VSC\my-github-repo\Examples008_introArray\obj\Debug\net6.0\Examples008_introArray.AssemblyInfo.cs
+C:\VSC\my-github-repo\Examples008_introArray\obj\Debug\net6.0\Examples008_introArray.csproj.CoreCompileInputs.cache
+C:\VSC\my-github-repo\Examples008_introArray\obj\Debug\net6.0\Examples008_introArray.dll
+C:\VSC\my-github-repo\Examples008_introArray\obj\Debug\net6.0\refint\Examples008_introArray.dll
+C:\VSC\my-github-repo\Examples008_introArray\obj\Debug\net6.0\Examples008_introArray.pdb
+C:\VSC\my-github-repo\Examples008_introArray\obj\Debug\net6.0\Examples008_introArray.genruntimeconfig.cache
+C:\VSC\my-github-repo\Examples008_introArray\obj\Debug\net6.0\ref\Examples008_introArray.dll
