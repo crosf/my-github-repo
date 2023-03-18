@@ -1,0 +1,15 @@
+C:\VSC\my-github-repo\Example010_methodArray\obj\Debug\net6.0\Example010_methodArray.csproj.AssemblyReference.cache
+C:\VSC\my-github-repo\Example010_methodArray\obj\Debug\net6.0\Example010_methodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\my-github-repo\Example010_methodArray\obj\Debug\net6.0\Example010_methodArray.AssemblyInfoInputs.cache
+C:\VSC\my-github-repo\Example010_methodArray\obj\Debug\net6.0\Example010_methodArray.AssemblyInfo.cs
+C:\VSC\my-github-repo\Example010_methodArray\obj\Debug\net6.0\Example010_methodArray.csproj.CoreCompileInputs.cache
+C:\VSC\my-github-repo\Example010_methodArray\bin\Debug\net6.0\Example010_methodArray.exe
+C:\VSC\my-github-repo\Example010_methodArray\bin\Debug\net6.0\Example010_methodArray.deps.json
+C:\VSC\my-github-repo\Example010_methodArray\bin\Debug\net6.0\Example010_methodArray.runtimeconfig.json
+C:\VSC\my-github-repo\Example010_methodArray\bin\Debug\net6.0\Example010_methodArray.dll
+C:\VSC\my-github-repo\Example010_methodArray\bin\Debug\net6.0\Example010_methodArray.pdb
+C:\VSC\my-github-repo\Example010_methodArray\obj\Debug\net6.0\Example010_methodArray.dll
+C:\VSC\my-github-repo\Example010_methodArray\obj\Debug\net6.0\refint\Example010_methodArray.dll
+C:\VSC\my-github-repo\Example010_methodArray\obj\Debug\net6.0\Example010_methodArray.pdb
+C:\VSC\my-github-repo\Example010_methodArray\obj\Debug\net6.0\Example010_methodArray.genruntimeconfig.cache
+C:\VSC\my-github-repo\Example010_methodArray\obj\Debug\net6.0\ref\Example010_methodArray.dll
