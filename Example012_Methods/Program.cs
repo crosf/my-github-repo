@@ -51,7 +51,7 @@ string Method4(int count, string c)
     for (int i = 0; i < count; i++)
     {
         result = result + c;
-      
+
     }
     return result;
 }
@@ -61,20 +61,60 @@ string res = Method4(10, "asdad");
 
 
 
-for (int i = 2; i <=10; i++)
+// for (int i = 2; i <= 10; i++)
+// {
+//     for (int j = 2; j <= 10; j++)
+//     {
+//         Console.WriteLine($"{i} x {j} = {i * j}");
+//     }
+//     Console.WriteLine();
+// }
+
+
+
+//           Работа с текстоь
+// дАН ТЕКСТ. в тексте все проблемы заменить черточками
+// маленькие  буквы к заменить на большие к
+// а большие С заменить на маленькие с
+
+// ЯСНА ЛИ ЗАДАЧА?
+
+
+string text = "- Я думаю, сказал князь, улыбаясь, что, "
+            + "ежели бы вас послали вместо нашего милого Винцегерода,"
+            + "вы бы взяли приступом согласие пруского короля. "
+            + "Вы так красноречивы. Вы дадите мне чаю?";
+
+// string s = "qwerty"
+//             012
+//   s[3] // r
+
+string Replace(string text, char oldValue, char newValue)
 {
-    for (int j = 2 ; j <= 10; j++)   
+    string result = String.Empty;
+
+    int length = text.Length;
+
+    for (int i = 0; i < length; i++)
     {
-        Console.WriteLine($"{i} x {j} = {i*j}");
+        if (text[i] == oldValue) result = result + $"{newValue}";
+        else result = result + $"{text[i]}";
+
     }
-    Console.WriteLine();
+
+
+    return result;
 }
 
+string newText = Replace(text, ' ', '|');
 
 
-    //           Работа с текстоь
-    // дАН ТЕКСТ. в тексте все проблемы заменить черточками
-    // маленькие  буквы к заменить на большие к
-    // а большие С заменить на маленькие с
+Console.WriteLine(newText);
+Console.WriteLine();
 
-    
+newText = Replace(newText, 'к', 'К');
+Console.WriteLine(newText);
+Console.WriteLine();
+
+newText = Replace(newText, 'С', 'с');
+Console.WriteLine(newText);
