@@ -14,9 +14,9 @@
 
 // void PrintArray(int[,] matr)
 // {
-// for (int i = 0; i < 3; i++)
+// for (int i = 0; i < matr.GetLength(0); i++)
 // {
-//     for (int j = 0; j < 4; j++)
+//     for (int j = 0; j < matr.GetLength(1); j++)
 //     {
 //         Console.Write($"{matr[i, j]} ");
 //     }
@@ -44,16 +44,48 @@
 
 
 
-int[,] puc = new int[,]
+int[,] pic = new int[,]
 {
-    {1,1,1,1,1,1,1,1,1,1},           
+    {1,1,1,1,1,1,1,1,1,1},
     {1,0,0,0,0,0,0,0,0,1},
     {1,0,0,0,1,1,1,1,0,1},
-    {1,1,1,0,1,1,1,1,0,1},
+    {1,1,1,1,1,1,1,1,1,1},
     {1,0,0,0,1,0,0,0,0,1},
-    {1,0,1,1,1,0,1,1,1,1},         
-    {1,0,0,0,0,0,0,0,0,1},
-    {1,1,0,1,1,1,1,0,1,1},
+    {1,0,1,1,1,0,1,1,1,1},
     {1,0,0,0,0,0,0,0,0,1},
     {1,1,1,1,1,1,1,1,1,1},
+    {1,0,0,0,0,0,0,0,0,1},
+    {1,1,1,1,1,1,1,1,1,1},
+};
+
+
+void PrintImage(int[,] Image)
+{
+    for (int i = 0; i < Image.GetLength(0); i++)
+    {
+        for (int j = 0; j < Image.GetLength(1); j++)
+        {
+            // Console.Write($"{Image[i, j]} ");
+            if (Image[i, j] == 0) Console.Write($" ");
+            else Console.Write($"+");
+        }
+        Console.WriteLine();
+    }
 }
+
+void FillImage(int row, int col)
+{
+    if (pic[row, col] == 0)
+    {
+        pic[row, col] = 1;
+        FillImage(row - 1, col);
+        FillImage(row, col - 1);
+        FillImage(row + 1, col);
+        FillImage(row, col + 1);
+    }
+}
+Console.WriteLine();
+PrintImage(pic);
+FillImage(5,5);
+Console.WriteLine();
+PrintImage(pic);
