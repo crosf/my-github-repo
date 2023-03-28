@@ -1,0 +1,15 @@
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\bin\Debug\net6.0\Example013_RecursionAlgirithm.exe
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\bin\Debug\net6.0\Example013_RecursionAlgirithm.deps.json
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\bin\Debug\net6.0\Example013_RecursionAlgirithm.runtimeconfig.json
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\bin\Debug\net6.0\Example013_RecursionAlgirithm.dll
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\bin\Debug\net6.0\Example013_RecursionAlgirithm.pdb
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\obj\Debug\net6.0\Example013_RecursionAlgirithm.csproj.AssemblyReference.cache
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\obj\Debug\net6.0\Example013_RecursionAlgirithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\obj\Debug\net6.0\Example013_RecursionAlgirithm.AssemblyInfoInputs.cache
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\obj\Debug\net6.0\Example013_RecursionAlgirithm.AssemblyInfo.cs
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\obj\Debug\net6.0\Example013_RecursionAlgirithm.csproj.CoreCompileInputs.cache
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\obj\Debug\net6.0\Example013_RecursionAlgirithm.dll
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\obj\Debug\net6.0\refint\Example013_RecursionAlgirithm.dll
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\obj\Debug\net6.0\Example013_RecursionAlgirithm.pdb
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\obj\Debug\net6.0\Example013_RecursionAlgirithm.genruntimeconfig.cache
+C:\VSC\my-github-repo\Example013_RecursionAlgirithm\obj\Debug\net6.0\ref\Example013_RecursionAlgirithm.dll
